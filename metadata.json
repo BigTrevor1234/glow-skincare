@@ -1,0 +1,6 @@
+{
+  "name": "GlowSkincare",
+  "description": "A professional, minimalist luxury e-commerce and wellness platform for high-end skincare, daily wellness supplements, and personalized self-care routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
